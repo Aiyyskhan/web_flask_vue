@@ -1,6 +1,6 @@
 {
   "name": "flaskvue-front",
-  "description": "A Flask Vue tutorial frontend",
+  "description": "A flask vue tutorial",
   "version": "1.0.0",
   "author": "aiyyskhan@gmail.com",
   "license": "MIT",
@@ -10,7 +10,6 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "axios": "^0.20.0",
     "vue": "^2.5.11"
   },
   "browserslist": [

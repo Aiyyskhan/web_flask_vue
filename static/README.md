@@ -1,6 +1,6 @@
 # flaskvue-front
 
-> A Flask Vue tutorial frontend
+> A flask vue tutorial
 
 ## Build Setup
 
